@@ -1,0 +1,10 @@
+
+#+TITLE: Maman Anne
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+
+* Welcome!
+- [[file:bio.html][Biography]]
+- [[file:music.html][Music]]
+- [[file:donate.html][Support]]
+- [[file:store.html][Buy CDs]]

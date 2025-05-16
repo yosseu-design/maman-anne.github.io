@@ -1,0 +1,8 @@
+
+#+TITLE: Support Maman Anne
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+
+* Donate
+Support Maman Anne's work:
+- [[https://paypal.me/mamananne][Donate via PayPal]]
+- [[https://patreon.com/mamananne][Become a Patron]]

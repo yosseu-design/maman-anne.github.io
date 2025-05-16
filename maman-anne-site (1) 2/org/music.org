@@ -1,0 +1,8 @@
+
+#+TITLE: Music
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+
+* Listen to Maman Anne
+- [[https://spotify.com/mamananne][Spotify]]
+- [[https://youtube.com/mamananne][YouTube]]
+- [[https://apple.com/music/mamananne][Apple Music]]
